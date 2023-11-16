@@ -22,6 +22,11 @@ const navLinks = [
     name: "Text Classification",
     logo: Classification,
     link: "/classification",
+  }, 
+  {
+    name: "Chatten",
+    logo: Classification,
+    link: "/chat",
   },
 ];
 export function Sidebar() {
